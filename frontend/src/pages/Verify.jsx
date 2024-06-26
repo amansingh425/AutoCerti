@@ -82,13 +82,13 @@ const App = () => {
             )}
 
             <p className="credit text-center mt-9">
-                This project is developed by{" "}
+                
                 <a
                     className="text-cyan-700 font-bold"
                     href="https://www.linkedin.com/in/sachanayush47/"
                     target="_blank"
                 >
-                    Ayush Sachan
+                   
                 </a>
             </p>
         </div>
